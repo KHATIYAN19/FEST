@@ -1,0 +1,19 @@
+ *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.active{
+   color:rgba(0, 0, 0, 0.412);
+    font-weight: 900;
+}
+.background{
+
+    background-image: url(https://images.pexels.com/photos/167605/pexels-photo-167605.jpeg?auto=compress&cs=tinysrgb&w=600https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bXVzaWMlMjBldmVudHxlbnwwfHwwfHx8MA%3D%3D);
+     height: 400px;
+     width: full;
+     background-repeat: no-repeat;
+     border-radius: 10px;
+     object-fit: scale-down;
+}
